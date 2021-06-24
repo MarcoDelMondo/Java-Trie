@@ -1,2 +1,2 @@
 # Java-Trie
-An implementation of a trie
+An implementation of a trie using Java
