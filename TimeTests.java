@@ -1,5 +1,3 @@
-
-//Ben Carrier 300290267
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.ArrayList;
