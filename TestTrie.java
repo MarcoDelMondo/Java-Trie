@@ -1,5 +1,3 @@
-
-//Ben Carrier 300290267
 import static org.junit.Assert.*;
 import org.junit.*;
 
